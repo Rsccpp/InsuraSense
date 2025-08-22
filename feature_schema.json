@@ -1,0 +1,123 @@
+{
+  "schema": {
+    "target": "Annual_Premium_Amount",
+    "features": [
+      {
+        "name": "Gender",
+        "type": "categorical",
+        "values": [
+          "Female",
+          "Male"
+        ]
+      },
+      {
+        "name": "Region",
+        "type": "categorical",
+        "values": [
+          "Northeast",
+          "Northwest",
+          "Southeast",
+          "Southwest"
+        ]
+      },
+      {
+        "name": "Marital_status",
+        "type": "categorical",
+        "values": [
+          "Married",
+          "Unmarried"
+        ]
+      },
+      {
+        "name": "BMI_Category",
+        "type": "categorical",
+        "values": [
+          "Normal",
+          "Obesity",
+          "Overweight",
+          "Underweight"
+        ]
+      },
+      {
+        "name": "Smoking_Status",
+        "type": "categorical",
+        "values": [
+          "Does Not Smoke",
+          "No Smoking",
+          "Not Smoking",
+          "Occasional",
+          "Regular",
+          "Smoking=0"
+        ]
+      },
+      {
+        "name": "Employment_Status",
+        "type": "categorical",
+        "values": [
+          "Freelancer",
+          "Salaried",
+          "Self-Employed"
+        ]
+      },
+      {
+        "name": "Income_Level",
+        "type": "categorical",
+        "values": [
+          "10L - 25L",
+          "25L - 40L",
+          "<10L",
+          "> 40L"
+        ]
+      },
+      {
+        "name": "Medical History",
+        "type": "categorical",
+        "values": [
+          "Diabetes",
+          "Diabetes & Heart disease",
+          "Diabetes & High blood pressure",
+          "Diabetes & Thyroid",
+          "Heart disease",
+          "High blood pressure",
+          "High blood pressure & Heart disease",
+          "No Disease",
+          "Thyroid"
+        ]
+      },
+      {
+        "name": "Insurance_Plan",
+        "type": "categorical",
+        "values": [
+          "Bronze",
+          "Gold",
+          "Silver"
+        ]
+      },
+      {
+        "name": "Age",
+        "type": "numeric",
+        "min": 18.0,
+        "max": 79.5,
+        "median": 31.0
+      },
+      {
+        "name": "Number Of Dependants",
+        "type": "numeric",
+        "min": -3.0,
+        "max": 5.0,
+        "median": 2.0
+      },
+      {
+        "name": "Income_Lakhs",
+        "type": "numeric",
+        "min": 1.0,
+        "max": 67.0,
+        "median": 17.0
+      }
+    ]
+  },
+  "metrics": {
+    "MAE": 806.5621700870629,
+    "R2": 0.9787351469558159
+  }
+}
