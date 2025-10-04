@@ -36,14 +36,10 @@ Follow these steps to set up and run the project on your local machine:
 3. Install dependencies:
     ```bash
     pip install -r requirements.txt
-
---- 
-
-## Usage
-1. Run the Streamlit app:
+4. Run the Streamlit app:
     ```bash
     streamlit run app.py
-2. Open the displayed local URL in your browser to interact with the application.
+5. Open the displayed local URL in your browser to interact with the application.
 
 ---
 
