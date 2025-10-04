@@ -44,6 +44,6 @@ Follow these steps to set up and run the project on your local machine:
 ---
 
 ## 🤝 Contributing
-- Contributions are welcome! Please open an issue or submit a pull request for improvements.
+ Contributions are welcome! Please open an issue or submit a pull request for improvements.
 
 ---
