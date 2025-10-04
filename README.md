@@ -1,2 +1,60 @@
-# InsuraSense
-Smart Health Insurance Predictor for Apex Insure built with the help of python libraries.
+# 💊 InsuraSense
+
+InsuraSense is a **Streamlit-based application** designed to analyze and predict insurance-related data. It leverages Python's data processing and machine learning libraries to provide quick and accurate predictions in an interactive web interface.
+
+---
+
+## Features
+
+- User-friendly web interface using **Streamlit**
+- Efficient data processing with **Pandas**
+- Machine learning predictions using **Scikit-learn**
+- Model serialization with **Joblib**
+
+---
+
+## Tools & Libraries Used
+- Streamlit - for interactive web apps
+- Pandas - for data manipulation
+- Scikit-learn - for machine learning
+- Joblib - for saving and loading models
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Rsccpp/InsuraSense.git
+cd InsuraSense
+
+```
+
+2. Create a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate   
+
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+``` 
+
+--- 
+
+## Usage
+1. Run the Streamlit app:
+```bash
+streamlit run app.py
+
+```
+
+2. Open the displayed local URL in your browser to interact with the application.
+
+---
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for improvements.
