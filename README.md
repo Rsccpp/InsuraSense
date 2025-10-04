@@ -4,7 +4,7 @@ InsuraSense is a **Streamlit-based application** designed to analyze and predict
 
 ---
 
-## Features
+## ✨ Features
 
 - User-friendly web interface using **Streamlit**
 - Efficient data processing with **Pandas**
@@ -13,7 +13,7 @@ InsuraSense is a **Streamlit-based application** designed to analyze and predict
 
 ---
 
-## Tools & Libraries Used
+## 🌐 Tools & Libraries Used
 - Streamlit - for interactive web apps
 - Pandas - for data manipulation
 - Scikit-learn - for machine learning
@@ -21,40 +21,33 @@ InsuraSense is a **Streamlit-based application** designed to analyze and predict
 
 ---
 
-## Installation
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the repository:**
-```bash
-git clone https://github.com/Rsccpp/InsuraSense.git
-cd InsuraSense
-
-```
-
+    ```bash
+    git clone https://github.com/Rsccpp/InsuraSense.git
+    cd InsuraSense
 2. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate   
-
-```
-
+    ```bash
+    python -m venv venv
+    source venv/bin/activate 
 3. Install dependencies:
-```bash
-pip install -r requirements.txt
-
-``` 
+    ```bash
+    pip install -r requirements.txt
 
 --- 
 
 ## Usage
 1. Run the Streamlit app:
-```bash
-streamlit run app.py
-
-```
-
+    ```bash
+    streamlit run app.py
 2. Open the displayed local URL in your browser to interact with the application.
 
 ---
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for improvements.
+## 🤝 Contributing
+-Contributions are welcome! Please open an issue or submit a pull request for improvements.
+
+---
