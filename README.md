@@ -49,6 +49,8 @@ Click below to view the complete project documentation:
 
 [📥 Download Project Report](Project_Report.pdf)
 
+---
+
 ## 🤝 Contributing
  Contributions are welcome! Please open an issue or submit a pull request for improvements.
 
