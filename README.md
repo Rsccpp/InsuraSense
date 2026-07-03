@@ -43,6 +43,10 @@ Follow these steps to set up and run the project on your local machine:
 
 ---
 
+## 📑 Project Documentation
+
+➡️ **[Open Project Report (PDF)](Project_Report.pdf)**
+
 ## 🤝 Contributing
  Contributions are welcome! Please open an issue or submit a pull request for improvements.
 
