@@ -2,6 +2,7 @@
 
 InsuraSense is a **Streamlit-based application** designed to analyze and predict insurance-related data. It leverages Python's data processing and machine learning libraries to provide quick and accurate predictions in an interactive web interface.
 
+🌐 **Live Demo**: [Click here to try it out!](https://insurasense-gdoit.streamlit.app/)
 ---
 
 ## ✨ Features
