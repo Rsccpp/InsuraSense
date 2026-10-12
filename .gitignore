@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# IDE settings
+.vscode/
+
+# files
+app2.py
+app3.py
+hlthstrmlt.ipynb
+.streamlit/secrets.toml
+health_premium_model.pkl
